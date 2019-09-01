@@ -1,0 +1,5 @@
+{
+	"title": "极限编程",
+	"language": "zh-hans",
+	"plugins" : [ "-highlight", "code-highlighter"]
+}

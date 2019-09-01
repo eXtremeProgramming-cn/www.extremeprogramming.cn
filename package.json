@@ -1,0 +1,24 @@
+{
+  "name": "www.eXtremeProgramming.cn",
+  "version": "0.1.0",
+  "description": "极限编程中文网站",
+  "main": "SUMMARY.md",
+  "scripts": {
+    "serve": "gitbook serve",
+    "init": "gitbook init",
+    "install": "gitbook install",
+    "pdf": "gitbook pdf && open book.pdf"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eXtremeProgramming-cn/www.extremeprogramming.cn.git"
+  },
+  "license": "Creative Commons BY-SA",
+  "dependencies": {
+    "gitbook-plugin-code-highlighter": "^1.0.7",
+    "gitbook-plugin-image-div": "0.0.4"
+  }
+}
