@@ -19,6 +19,7 @@
   "license": "Creative Commons BY-SA",
   "dependencies": {
     "gitbook-plugin-code-highlighter": "^1.0.7",
-    "gitbook-plugin-image-div": "0.0.4"
+    "gitbook-plugin-image-div": "0.0.4",
+    "lodash": ">=4.17.13"
   }
 }
