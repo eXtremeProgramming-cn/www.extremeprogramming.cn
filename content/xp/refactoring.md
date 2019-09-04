@@ -1,0 +1,7 @@
+We computer programmers hold onto our software designs long after they have become unwieldy. We continue to use and reuse code that is no longer maintainable because it still works in some way and we are afraid to modify it. But is it really cost effective to do so? Extreme Programming (XP) takes the stance that it is not. When we remove redundancy, eliminate unused functionality, and rejuvenate obsolete designs we are refactoring. Refactoring throughout the entire project life cycle saves time and increases quality. 
+ 
+Refactor mercilessly to keep the design simple as you go and to avoid needless clutter and complexity. Keep your code clean and concise so it is easier to understand, modify, and extend. Make sure everything is expressed once and only once. In the end it takes less time to produce a system that is well groomed.
+ 
+There is a certain amount of Zen to refactoring. It is hard at first because you must be  able to  let  go  of  that  perfect  design  you  have envisioned and accept the design that was serendipitously discovered for you by refactoring. You must realize that the design you envisioned was a good guide post, but is now obsolete. 
+ 
+A caterpillar is perfectly designed to eat vast amounts of foliage but he can't find a mate, he must refactor himself into a butterfly before he is designed to search the sky for others of his own kind. Let go of your notions of what the system should or should not be and try to see the the new design as it emerges before you.
