@@ -1,41 +1,43 @@
+## 极限编程规则
 
-## Planning
-* User Stories User stories are written.
-* release plan Release planning creates the release schedule.
-* release often Make frequent small releases.
-* iterative The project is divided into iterations.
-* iteration planning Iteration planning starts each iteration.
+### 计划
+* 编写用户故事。
+* 根据发布计划制定发布时间表。
+* 进行频繁的小规模发布。
+* 将项目分解成迭代。
+* 以迭代计划驱动每个迭代。
 
-## Managing
-* optimize last Give the team a dedicated open work space.
-* steady pace Set a sustainable pace.
-* stand-up meeting A stand up meeting starts each day.
-* project velocity The Project Velocity is measured.
-* move people around Move people around.
-* fix xp Fix XP when it breaks.
+### 管理
+* 为团队提供专注的、开放型办公空间。
+* 可持续的节奏。
+* 以站会开始每一天。
+* 团队开发速度可度量。
+* 让团队坐在一起。
+* 调整有缺陷的规则。
 
-## Designing
-* simplicity Simplicity.
-* System Metaphor Choose a system metaphor.
-* CRC cards Use CRC cards for design sessions.
-* Spike solution Create spike solutions to reduce risk.
-* nothing early No functionality is added early.
-* refactor Refactor whenever and wherever possible.
+### 设计
+* 简单原则。
+* 选择一个系统隐喻。
+* 在设计交流中使用CRC Cards。
+* 使用Spike方法降低风险。
+* 在项目早期就考虑非功能性需求。
+* 无论何时何地都尽可能地重构代码。
 
-## Coding
-* customer on-site The customer is always available.
-* coding standard Code must be written to agreed standards.
-* Test Driven Development Code the unit test first.
-* pair programming All production code is pair programmed.
-* serial integration Only one pair integrates code at a time.
-* continuous integration Integrate often.
-* continuous integration Set up a dedicated integration computer.
-* collective ownershipUse collective ownership.
+### 编程
+* 客户要一直保持有效参与状态。
+* 必须遵循编码规范。
+* 优先编写测试。
+* 所有生产代码都产生于结对编程。
+* 一次只有两个人集成代码。
+* 持续集成。
+* 选择一台机器专门用于代码集成。
+* 代码集体所有。
 
-## Testing
-* unit tests All code must have unit tests.
-* unit tests All code must pass all unit tests before it  can
-* be released.
-* tests When a bug is found tests are created.
-* acceptance tests Acceptance tests are run often and the score
-is published.
+### 测试
+* 所有代码都必须有单元测试。
+* 发布前必须跑通所有单元测试。
+* 发现一个Bug要增加一个单元测试。
+* 经常性运行验收测试并公布测试结果。
+
+
+进一步阅读: [极限编程(XP)价值观](content/xp/value.md)
