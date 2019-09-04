@@ -1,7 +1,7 @@
 # 目录
 
 * [关于](README.md)
-* [极限编程介绍](content/xp/introduction.md)
+* [极限编程简介](content/xp/introduction.md)
 	* [规则](content/xp/rules.md)
 	* [价值观](content/xp/value.md)
 * [极限编程项目要素](content/xp/project.md)

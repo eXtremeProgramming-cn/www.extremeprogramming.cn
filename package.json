@@ -4,7 +4,7 @@
   "description": "极限编程中文网站",
   "main": "SUMMARY.md",
   "scripts": {
-    "serve": "gitbook serve",
+    "serve": "gitbook serve --port 4002 --lrport 35730",
     "init": "gitbook init",
     "install": "gitbook install",
     "pdf": "gitbook pdf && open book.pdf"
