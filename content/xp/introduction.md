@@ -16,12 +16,12 @@
 * 在前面这些的基础上，极限编程的实践者们方有**勇气**积极响应不断变化的需求和技术。
 
 
-The most surprising aspect of Extreme Programming is its simple rules. Extreme Programming is a lot like a jig saw puzzle. There are many small pieces. Individually the pieces make no sense, but when combined together a complete picture can be seen. The rules may seem awkward and perhaps even naive at first, but are based on sound values and principles.
+极限编程最令人惊讶的一点是，它的[规则](content/xp/rules.md)非常简单。采用极限编程很像在玩拼图游戏，你会看到很多小片的拼图，每一个小片单独看起来没有意义，组合起来就会看见一幅完整的图景。这些规则乍一看可能显得幼稚笨拙，但在它们背后有着坚实的[价值观](content/xp/value.md)和原则支撑。
 
-极限编程最令人惊讶的一点，是它的规则非常简单。
+极限编程的规则为团队成员设置了彼此之间的期望，但规则本身不是团队最终追求的目标。你会发现，这些规则构建起了一个良好的工作氛围，鼓励团队协作和充分赋权。在这样的氛围下，卓有成效的团队协作会逐渐成型，此后即便规则随着公司的需求而调整，高效的团队协作也会延续。
 
-Our rules set expectations between team members but are not the end goal themselves. You will come to realize these rules define an environment that promotes team collaboration and empowerment, that is your goal. Once achieved productive teamwork will continue even as rules are changed to fit your company's specific needs.
+接下来，你可以继续深入了解极限编程：
 
-This flow chart shows how Extreme Programming's rules work together. Customers enjoy being partners in the software process, developers actively contribute regardless of experience level, and managers concentrate on communication and relationships. Unproductive activities have been trimmed to reduce costs and frustration of everyone involved.
-
-Take a guided tour of Extreme Programming by following the trail of littleWhat is an Agile process?buttons, starting here.
+* 了解它的[规则](content/xp/rules.md)，以及规则背后的[价值观](content/xp/value.md)。或者，
+* 了解[极限编程项目如何组织](content/xp/project.md)。或者，
+* 了解[极限编程的核心实践](content/xp/development.md)。
