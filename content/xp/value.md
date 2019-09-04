@@ -1,11 +1,13 @@
-Extreme Programming (XP) is based on values. The rules we just examined are the natural extension and consequence of maximizing our values. XP isn't really a set of rules but rather a way to work in harmony with your personal and corporate values. Start with XP's values listed here then add your own by reflecting them in the changes you make to the rules.
+## 极限编程价值观
 
-Simplicity: We will do what is needed and asked for, but no more. This will maximize the value created for the investment made to date. We will take small simple steps to our goal and mitigate failures as they happen. We will create something we are proud of and maintain it long term for reasonable costs. 
+极限编程(XP)建立于一些基础的价值观之上。我们前面刚探讨的规则，是最大化体现这些价值观的自然延展和结果。XP并不真的是一套规则集，而是一种与你个人价值和企业价值相协调的工作方式。通过以下所列的XP价值观开始，添加你自己相应的规则，以反映实际工作中的一些变化。
 
-Communication: Everyone is part of the team and we communicate face to face daily. We will work together on everything from requirements to code. We will create the best solution to our problem that we can together.
+**简单：** 我们只做必须做的事，不会更多。这将最大化投资价值。我们采取简单的小步骤来达成目标并排除故障。我们创造一些引以为傲的东西，并以合理的成本长期维持。
 
-Feedback: We will take every iteration commitment seriously by delivering working software. We demonstrate our software early and often then listen carefully and make any changes needed. We will talk about the project and adapt our process to it, not the other way around.
+**交流：** 每个人都是团队的一部分，我们每天面对面进行交流。无论从需求到编码，我们都一起工作。我们将为问题创造最好的解决方案。
 
-Respect: Everyone gives and feels the respect they deserve as a valued team member. Everyone contributes value even if it's simply enthusiasm. Developers respect the expertise of the customers and vice versa. Management respects our right to accept responsibility and receive authority over our own work.
+**反馈：** 我们通过发布可工作的软件来认真对待每一次迭代承诺。我们会尽早并经常地演示软件，然后认真倾听、做出相应的改变。我们会对开发流程进行调整以适应项目，而不是相反。
 
-Courage: We will tell the truth about progress and estimates. We don't document excuses for failure because we plan to succeed. We don't fear anything because no one ever works alone. We will adapt to changes when ever they happen.
+**尊重：** 作为一个有价值的团队成员，每个人在团队中都应给予他人尊重并得到应有的尊重。每个人都贡献着价值，即使是简单的热情。开发人员尊重客户的专业性（反之亦然）。管理者尊重我们在工作中的权利和义务。
+
+**勇气：** 我们会说明进展和评估的真相。我们不会为失败找借口，因为我们的目标是成功。我们不会恐惧任何事，因为我们是一起战斗。我们会勇于拥抱变化。
