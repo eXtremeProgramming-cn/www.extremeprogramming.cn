@@ -13,4 +13,4 @@
 验收测试的名称从功能测试中更改。这更好地反映了意图，即保证满足客户要求并且系统可接受。
 
 （images/projectsml.gif）
- ![image-20181112175220160](master/images/projectsml.gif)
+ ![image-20181112175220160](/master/images/projectsml.gif)
