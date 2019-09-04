@@ -1,2 +1,3 @@
-Create spike solutions to figure out answers to tough technical or design problems. A spike solution is a very simple program to explore potential solutions. Build the spike to only addresses the problem under examination and ignore all other concerns. Most spikes are not good enough to keep, so expect to throw it away. The goal is reducing the risk of a technical problem or increase the reliability of a user story's estimate.
- When a technical difficulty threatens to hold up the system's development put a pair of developers on the problem for a week or two and reduce the potential risk.
+创建穿刺解决方案，找出棘手的技术或设计问题的答案。 穿刺解决方案是一个探寻潜在解决方案的非常简单的程序。 构建穿刺只能解决所探寻的问题并忽略所有其他关注点。 大多数穿刺都不够好，所以预期会将其丢弃。 目标是降低技术问题的风险或提高用户故事估算的可靠性。
+
+当技术难点威胁到系统的开发时，会让一对开发人员在一、两个星期内解决问题并降低潜在风险。
