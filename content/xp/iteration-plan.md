@@ -1,16 +1,25 @@
-## Iteration Planning
+## 迭代计划
 
-An iteration planning meeting is called at the beginning of each iteration to produce that iteration's plan of programming tasks. Each iteration is 1 to 3 weeks long. User stories are chosen for this iteration by the customer from the release plan in order of the most valuable to the customer first. Failed acceptance tests to be fixed are also selected. The customer selects user stories with estimates that total up to the project velocity from the last iteration.
- The user stories and failed tests are broken down into the programming tasks that will support them. Tasks are written down on index cards like user stories. While user stories are in the customer's language, tasks are in the developer's language. Duplicate tasks can be removed. These task cards will be the detailed plan for the iteration. 
- Developers sign up to do the tasks and then estimate how long their own tasks will take to complete. It is important for the developer who accepts a task to also be the one who estimates how long it will take to finish. People are not interchangeable and the person who is going to do the task must estimate how long it will take.
- Each task should be estimated as 1, 2,  or
-3 (add 1/2 if you need to) ideal programming days in duration. Ideal programming days are how long it would take you to complete the task if there were no distractions. Tasks which are shorter than 1 day can be grouped together. Tasks which are longer than 3 days should be broken down farther.
- Now the project velocity is used again to determine if the iteration is over booked or not. Total up the time estimates in ideal programming days of the tasks, this must not exceed the project velocity from the previous iteration. If the iteration has too much then the customer must choose user stories to be put off until a later iteration (snow plowing).
- If the iteration has too little then another story can be accepted. The velocity in task days (iteration planning) overrides the velocity in story weeks (release planning) as it is more accurate.
- It is often alarming to see user stories being snow plowed. Don't panic. Remember the importance of unit testing and refactoring. A debt in either of these areas will slow you down. Avoid adding any functionality before it is scheduled. Just add what you need for today. Adding anything extra will slow you down.
+在迭代之前要召开迭代计划会议，并输出一份任务开发计划。每个迭代一般1~3周时间。客户从[发布计划](release-plan.md)（故事列表）里依次选择高优先级的[用户故事](user-story.md)加入到当前迭代。待修复的、失败的[验收测试](acceptance-test.md)也会被加入到迭代计划中。客户为迭代选择的故事，其总故事点需参照团队上一个[迭代的速度](velocity.md)。
+
+然后，团队将用户故事和失败的测试分解为编程任务(Task)，并且将任务像用户故事一样以索引卡片的形式记录下来。用客户能理解的语言来描述用户故事，而用更倾向于开发者的语言来描述任务。重复的任务会被移除。这些任务卡片构成了迭代的计划细节。
+
+开发者领取任务并估算任务时长。要注意的是，谁领取任务谁就应该负责估算。任务不能随意交换。
+
+一般以“理想开发天数”来度量每个任务，如1、2或3（若需要，1/2也可以）个理想天数。理想开发天数是指在没有任何干扰的情况下完成任务的时长。小于1天的任务可以集中到一起估算，大于3天的任务则应该拆成小任务。
+
+这时，项目开发速度（或团队速度）将再次发挥作用，它将决定当前迭代任务是否过量。计划任务的理想开发天数之和，不能超过前一个迭代的开发速度。如果迭代任务过量，客户需要考虑将一些低优先级故事纳入后续迭代(snow plowing)。
+
+如果迭代任务不饱和，那就再加几个故事进迭代。“任务天”速度（迭代规划）会覆盖“故事周”速度（[发布规划](release-plan.md)），因为前者更准确。
+
+看到任务开发进度变慢时人们常会担忧，但其实不用惧怕。需要谨记的是[单元测试](unit-test.md)和[重构](refactoring.md)，这两个事情任何一个若做得不到位，都会降低你的速度。除非某个新功能有确定的计划时间表，否则应避免添加该新功能。只开发当天计划的功能，不是当天的任何任务都会拖慢你的进度。
+
+迭代进行中不要试图去调整你的任务和故事点估算。规划过程建立在持续一致的估算现实基础之上，强行修正会造成更多的问题。
+
+不需要过分关注项目速度或开发进度变慢。每隔3~5个迭代，你可能需要重新估算所有故事并且重新调整发布计划，这都是很常见的情况。只要秉持着“最高价值故事优先开发”的原则，你就在持续为客户及管理者创造着最大的价值。
+
+迭代式开发给你的开发过程带来了敏捷性。只对当前需要的任务进行计划，而不要过多考虑后续迭代的具体开发任务。
 
 
+[返回目录](../../SUMMARY.md)
 
- Don't be tempted into changing your task and story estimates. The planning process relies on the cold reality of consistent estimates, fudging them to be a little lower creates more problems.
- Keep an eye on your project velocity and snow plowing. You may need to re-estimate all the stories and re-negotiate the release plan every three to five iterations, this is normal. So long as you always implement the most valuable stories first you will always be doing as much as possible for your customers and management. 
- An iterative development style can add agility to your development process. Try just in time planning by not planning specific programming tasks farther ahead than the current iteration.
