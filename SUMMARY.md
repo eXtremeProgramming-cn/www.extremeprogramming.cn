@@ -7,7 +7,7 @@
 * [极限编程项目要素](content/xp/project.md)
 	* [用户故事](content/xp/user-story.md)
 	* [架构穿刺](content/xp/architectural-spike.md)
-	* [发布计划](content/xp/release-plan.md)
+	* [发布计划](content/xp/release-planning.md)
 	* [迭代计划](content/xp/iteration-plan.md)
 	* [团队速率](content/xp/velocity.md)
 	* [验收测试](content/xp/acceptance-test.md)
