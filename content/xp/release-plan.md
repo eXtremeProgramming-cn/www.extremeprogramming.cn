@@ -5,7 +5,7 @@
 
 [comment]: <原文> (After user stories have been written you can use a release planning meeting to create a release plan. The release plan specifies which user stories are going to be implemented for each system release and dates for those releases. This gives a set of user stories for customers to choose from during the iteration planning meeting to be implemented during the next iteration. These selected stories are then translated into individual programming tasks to be implemented during the iteration to complete the stories.)
 
-用户故事编写完成后，就可通过[发布计划会议](/content/xp/release-planning.md)来制订发布计划。发布计划指定了每一次系统发布所需实现的用户故事，以及发布的具体时间。这提供了一组用户故事供客户在[迭代计划会议](/content/xp/iteration-plan.md)中进行选择，以便在下一个迭代中实现。这些被选定的故事，会被分解为独立的开发任务，在迭代期间实现并完成故事。
+用户故事编写完成后，就可通过[发布计划会议](/content/xp/release-planning.md)来制订发布计划。发布计划指定了每一次系统发布所需实现的用户故事，以及发布的具体时间。发布计划提供了一组用户故事供客户在[迭代计划会议](/content/xp/iteration-plan.md)中进行选择，以便在下一个迭代中实现。这些被选定的故事，会被分解为独立的开发任务，并在迭代期间完成。
 
 
 [comment]: <原文> (Stories are also translated into acceptance tests during the iteration. These acceptance tests are run during this iteration, and subsequent iterations to verify when the stories are finished correctly and continue to work correctly.)
