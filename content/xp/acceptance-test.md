@@ -13,6 +13,8 @@
 
  验收测试是从功能性测试转变而来。 这个名字更好地反映了测试的目的， 它保证了客户需求被满足，因而系统验收通过了。
 
+ 翻译：邓志国 bobdeng@163.com
+
  <!-- Acceptance tests are created from user stories. During an iteration the user stories selected during the iteration planning meeting will be translated into acceptance tests. The customer specifies scenarios to test when a user story has been correctly implemented. A story can have one or many acceptance tests, what ever it takes to ensure the functionality works. 
  Acceptance tests are black box system tests. Each acceptance test represents some expected result from the system. Customers are responsible for verifying the correctness of the acceptance tests and reviewing test scores to decide which failed tests are of highest priority. Acceptance tests are also used as regression tests prior to a production release. 
  A user story is not considered complete until it has passed its acceptance tests. This means that new acceptance tests must be created each iteration or the development team will report zero progress. 
