@@ -15,13 +15,12 @@
 发布计划会议的实质是让开发人员以理想开发时间来估算[用户故事](/content/xp/user-story.md)。理想开发时间，是指在没有干扰、没有依赖、没有额外工作、但必须包含测试的情况下，完成一个用户故事所花费的时间。然后，客户决定哪个用户故事最重要或者具有最高的优先级。
 
 
-[comment]: <原文> (User stories are printed or written on cards. Together developers and customers move the cards around on a large table to create a set  of stories to be implemented as the first (or next) release. A useable, testable system that makes good business sense delivered early is desired.)
+[comment]: <原文> (User stories are printed or written on cards. Together developers and customers move the cards around on a large table to create a set  of stories to be implemented as the first \(or next\) release. A useable, testable system that makes good business sense delivered early is desired.)
 
 用户故事会被打印或者写到卡片上。开发人员和客户一起围绕着大桌子移动卡片，为第一次（或下一次）发布选定一组待实现的卡片。[尽早交付](/content/xp/small-release.md)可用、可测试、且具有良好商业价值的系统，才是人们所期望的。
 
 
-[comment]: <原文> (You may plan by time or by scope. The project velocity is  used  to  determine  either
-how many stories can be implemented before a given date #time# or how long a set of stories will take to finish #scope#. When planning by time multiply the number of iterations by the project velocity to determine how many user stories can be completed. When planning by scope divide the total weeks of estimated user stories by the project velocity to determine how many iterations till the release is ready.)
+[comment]: <原文> (You may plan by time or by scope. The project velocity is  used  to  determine  either how many stories can be implemented before a given date \(time\) or how long a set of stories will take to finish \(scope\). When planning by time multiply the number of iterations by the project velocity to determine how many user stories can be completed. When planning by scope divide the total weeks of estimated user stories by the project velocity to determine how many iterations till the release is ready.)
 
 可以按时间或范围规划发布计划。[项目速率](/content/xp/velocity.md)可用来确定在指定日期前可完成多少用户故事（时间），或一组用户故事需要多久才能完成（范围）。按时间进行规划时，将迭代次数乘以项目速率，可确定能够完成多少用户故事。按范围进行规划时，将用户故事的总预估理想开发时间除以项目速率，即可确定完成发布需要多少次迭代。
 
