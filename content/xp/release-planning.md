@@ -47,4 +47,4 @@
 
 [comment]: <原文> (In essence there are only 3 variables that you actually want to change. Management can set 2 of those variables and the third will be set by the development team.  Also let the developers moderate the customers desire to have the project done immediately by hiring too many people at one time.)
 
-本质上，只有3个变量是可被改变的。管理人员可设置其中的两个，第三个变量可由开发团队来设置。当然，开发人员也可通过以需要一次雇佣大量人员为由来调整客户对交付期限的期望。
+本质上，只有三个变量可被改变。管理人员可设置其中的两个，第三个变量可由开发团队来设置。并允许开发人员遏制客户企图通过同时雇佣大量人员迅速完成项目的欲望。
