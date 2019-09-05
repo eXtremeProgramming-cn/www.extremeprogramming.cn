@@ -1,9 +1,18 @@
-## Team Velocity
+## 团队速度
 
-The project velocity (or just velocity) is a measure of how much work is getting done on your project. To measure the project velocity you simply add up the estimates of the user stories that were finished during the iteration. It's just that simple. You also total up the estimates for the tasks finished during the iteration. Both of these measurements are used for iteration planning.
- During the iteration planning meeting customers are allowed to choose the same number of user stories equal to the project velocity measured in the previous iteration. Those stories are broken down into technical tasks and the team is allowed to sign up for the same number of tasks equal to the previous iteration's project velocity.
- This simple mechanism allows developers to recover and clean up after a difficult iteration and averages out estimates. Your project velocity goes up by allowing developers to ask the customers for another story when their work is completed early and no clean up tasks remain.
- A few ups and downs in project velocity are expected. You should use a release planning meeting to re-estimate and re-negotiate the release plan if your project velocity changes dramatically for more than one iteration. Expect the project velocity to change again when the system is put into production due to maintenance tasks.
- Project  velocity  is  about  as  detailed  a measure as you can make that will be accurate. 	
-Don't bother dividing the project velocity by the length of the iteration or the number of people. This number isn't any good to compare two project's productivity. Each project team will have a different bias to estimating stories and tasks, some estimate high, some estimate low. It doesn't matter in the long run. Tracking the total amount of work done during each iteration is the key to keeping the project moving at a steady predictable pace.
- The problem with any project is the initial estimate. Collecting lots of details does not make your initial estimate anything other than a guess. Worry about estimating the overall scope of the project and get that right instead of creating large documents. Consider spending the time you would have invested into creating a detailed specification on actually doing a couple iterations of development. Measure the project velocity during these initial explorations and make a much better guess at the project's total size.
+**开发速度**（或称团队速度、项目速度）**用于度量项目中完成的工作量**。开发速度，可以通过简单地**加总迭代完成的用户故事点数来计算，也可以用迭代完成的任务点数来计算**（译注：目前的软件开发中，任务点常用“小时”来度量）。一般在迭代规划中，两种度量方法都会使用。
+
+在迭代计划会议中，客户选择的故事量，其故事点数之和应等于上个迭代的开发速度(译注：速率，此时用故事点数度量)。故事被分解为技术任务后，团队可领取（和交付）的任务数，其估算的任务点之和也应等于上个迭代的开发速度（译注：这种情况下使用任务点数度量）。
+
+这个简单的计算方法，也有助于开发人员在结束某次有挑战的迭代工作后，清理故事和任务、调整估算值。如果开发人员提前完成了计划的任务量并向客户请求新的故事，说明团队的开发速度提高了。
+
+开发速度总共有一些上下起伏。如果开发速度在多次迭代中变化太明显，你应该考虑在某次发布计划会议中重新估算和调整计划。当系统投入生产环境时，增加的运维工作，也会使得开发速度再次变化。
+
+开发速度大概是你所能得到的较详细和准确的度量了。
+
+别去考虑用开发速度除以迭代长度或人数。用这样的结果数字，去对比两个项目的生产率是不现实的。每个团队在估算故事和任务时都有不同的偏好，有的高估、有的低估。长期而言这无关紧要。确保项目以稳定、可预期的节奏推进的关键在于，跟踪记录每次迭代中完成的开发任务总量。
+
+一开始的开发速度和项目规模都无法做到准确估算，几乎任何项目都有这个问题。即便掌握了大量细节，你的初步估算仍然是种猜测。与其创建大量文档，不如多考虑一下项目的整体功能范围及功能是否有价值。花时间建立具体的规范，用于指导几次实际的迭代开发。通过这几次前期的迭代探索，可以更好地度量开发速度及项目整体规模。
+
+
+[返回目录](../../SUMMARY.md)
