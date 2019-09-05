@@ -8,13 +8,14 @@
 
 用户故事会被打印或者写到卡片上。开发人员和客户一起围绕着大桌子移动卡片，为第一次（或下一次）发布选定一组待实现的卡片。[尽早交付](/content/xp/small-release.md)可用、可测试、且具有良好商业价值的系统，才是人们所期望的。
 
-可以按时间或范围规划发布计划。[开发速率](/content/xp/velocity.md)可用来确定在指定日期前可完成多少用户故事（时间），或一组用户故事需要多久才能完成（范围）。按时间进行规划时，将迭代次数乘以开发速率，可确定能够完成多少用户故事。按范围进行规划时，将用户故事的总预估理想开发时间除以开发速率，即可确定完成发布需要多少次迭代。
+可以按时间或范围规划发布计划。[项目速率](/content/xp/velocity.md)可用来确定在指定日期前可完成多少用户故事（时间），或一组用户故事需要多久才能完成（范围）。按时间进行规划时，将迭代次数乘以项目速率，可确定能够完成多少用户故事。按范围进行规划时，将用户故事的总预估理想开发时间除以项目速率，即可确定完成发布需要多少次迭代。
 
-在每个迭代开始之前而不是提前计划每一个迭代。发布计划会议也被称作计划游戏，可在[Portland Patern Repository](http://c2.com/cgi/wiki?PlanningGame)找到相关的规则。
+在每个迭代开始之前而不是提前计划每一个迭代。发布计划会议也被称作计划游戏，可在[Portland Pattern Repository](http://c2.com/cgi/wiki?PlanningGame)找到相关的规则。
 
+当所有发布计划已创建完成，但管理人员却感到不满时，最容易犯的错误就是去改变用户故事的估算。你绝不应该这么做。估算应是每位参与者所认可的，并且应该在后继的[迭代规划会议](/content/xp/iteration-plan.md)中坚持相同的原则。低估将会造成问题。所以，应该协商一个可接受的发布计划，直到开发人员、客户、管理人员满意为止。
 
+发布计划的基本理念是项目可以通过4个变量来限定：范围、资源、时间和质量。范围即需要完成多少内容；资源即有多少可用的人；时间即何时发布或完成项目；质量即软件的好坏以及是否经过良好的测试和验证。
 
- When the final release plan is created and is displeasing to management it is tempting to just change the estimates for the user stories. You must not do this. The estimates are valid and will be required as-is during the iteration planning meetings. Underestimating now will cause problems later. Instead negotiate an acceptable release plan. Negotiate until the developers, customers, and managers can all agree to the release plan.
- The base philosophy of release planning is that a project may be quantified by four variables; scope, resources, time, and quality. Scope is how much is to  be  done.  Resources  are  how  many people are available. Time is when the project or release will be done. And quality is how good the software will be and how well tested it will be. 
- No one can control all 4 variables.  When you change one you inadvertently cause another to change in response.  Note that lowering quality to any less than excellent has unforeseen impact on the other 3 variables that may not become obvious until your project slows to a crawl just before the deadline.  
- In essence there are only 3 variables that you actually want to change. Management can set 2 of those variables and the third will be set by the development team.  Also let the developers moderate the customers desire to have the project done immediately by hiring too many people at one time.
+没有人能够控制所有4个变量。改变一个变量将不可避免的导致其他变量的变化。值得注意的是，降低质量将可能导致项目在其他方面出现不可预料的影响，这些影响有可能直到项目慢如蜗牛且已到最后一刻时才会被察觉。
+
+本质上，只有3个变量是可被改变的。管理人员可设置其中的两个，第三个变量可由开团队来设置。当然，开发人员也可以通过以需要一次雇佣海量的人员来打消客户“立即交付”的念头。
