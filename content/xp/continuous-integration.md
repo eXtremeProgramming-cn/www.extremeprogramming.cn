@@ -1,5 +1,5 @@
-Developers should be integrating and commiting code into the code repository every few hours, when ever possible. In any case never hold onto changes for more than a day. Continuous integration often avoids diverging or fragmented development efforts, where developers are not communicating with each other about what can be re-used, or what could be shared. Everyone needs to work with the latest version. Changes should not be made to obsolete code causing integration head aches.
-
-Each development pair is responsible for integrating their own code when ever a reasonable break presents itself. This may be when the unit tests all run at 100% or some smaller portion of the planned functionality is finished. Only one pair integrates at any given moment and after only a few hours of coding to reduce the potential problem location to almost nothing.
+开发人员应该尽可能每隔几个小时将代码集成并提交到代码存储库中。 在任何情况下，永远不要持有超过一天的变更。 持续集成通常可以避免发散或碎片化的开发工作，开发人员不会相互沟通可以重用的内容或可以共享的内容。 每个人都需要工作在最新版本上。 不应对过时的代码进行变更，这会导致集成困难。
  
-Continuous integration avoids or detects compatibility problems early. Integration is a "pay me now or pay me more later" kind of activity. That is, if you integrate throughout the project in small amounts you will not find your self trying to integrate the system for weeks at the project's end while the deadline slips by. Always work in the context of the latest version of the system.
+当合理的中断出现时，每个开发结对都有责任集成自己的代码。 这可能是当单元测试所有运行在100％或计划功能的一些较小部分完成时。 只有一个结对在任何给定时刻进行集成，并且在仅仅几个小时的编码之后就可以将潜在的问题位置减少到几乎没有。
+ 
+持续集成可以尽早避免或检测兼容性问题。 集成是“现在付钱给我或者稍后付更多钱给我”的一种活动。 也就是说，如果你在整个项目过程中中进行少量集成，在项目末期你将不会发现自己试图花费数周集成系统，同时错过截止日期。 始终在最新版本的系统环境中工作。
