@@ -2,6 +2,8 @@
 
 让人员流动起来，可以避免严重的知识孤岛和单点依赖。如果团队中某块领域的工作只有一个人能做，那么当这个人离开项目或者身兼多职时，项目的进度就将大为拖延。
 
+> Move people around to avoid serious knowledge loss and coding bottle necks. If only one person on your team can work in a given area and that person leaves or just has too much to do you will find your project's progress reduced to a crawl.
+
 为了避免这种知识孤岛，很多公司都愿意让团队成员之间进行“交叉培训”。然而，通过培训得来的知识仍然很容易流失。而让团队成员流动到代码库的不同领域，辅以结对编程的实践，同样能起到“交叉培训”的作用，甚至效果更好。这样做可以避免团队只有个别人掌握某块代码的所有细节，相反，团队的每个人都能对所有代码有全面的了解。
 
 > Cross training is often an important consideration in companies trying to avoid islands of knowledge, which are so susceptible to loss. Moving people around the code base in combination with pair programming does your cross training for you. Instead of one person who knows everything about a given section of code, everyone on the team knows much of the code in each section.
