@@ -12,6 +12,6 @@
 
  > A team is much more flexible if everyone knows enough about every part of the system to work on it. Instead of having a few people overloaded with work while other team members have little to do, the whole team can be productive. Any number of developers can be assigned to the hottest part of the system. Flexible load balancing of this type is a manager's dream come true.	
 
-要实现以上目标很简单，只需要鼓励开发者们，每个迭代至少尝试一次在系统的一块新土地上工作即可。结对编程就是一种好的方式，既能保证团队的想法得到共享，又不会使团队的生产率下降。结对中的一个人也可以分出来做其他工作，另一人则仍然继续未完成的工作（有必要时可以换进一位新的成员继续结对）。
+要实现以上目标很简单，只需要鼓励开发者们，每个迭代至少尝试一次在系统的一块新土地上工作即可。[结对编程](./pair-programming.md)就是一种好的方式，既能保证团队的想法得到共享，又不会使团队的生产率下降。结对中的一个人也可以分出来做其他工作，另一人则仍然继续未完成的工作（有必要时可以换进一位新的成员继续结对）。
  
 > Simply encourage everyone to try working on a new section of the system at least part of each iteration. Pair programming makes it possible without losing productivity and ensures continuity of thought. One person from a pair can be swapped out while the other continues with a new partner if desired.

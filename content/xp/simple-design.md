@@ -8,7 +8,7 @@
 
 > Many people try to measure simplicity. Simple defies measurement because it is a very subjective quality. One person's simple is another person's complex. Adding an advanced technology can simplify one application and make a complete mess of another.
 
-在项目中，“简单”的标准应该由团队自行确定，因为作为一个团队，你们需要一同对代码做出一致的评判。这里我向你推荐“简单”的四个主观特质以供参考：可测试（Testable）、可理解（Understandable）、可预览（Browsable）、可解释（Explainable）（简称TUBE）。
+在项目中，“简单”的标准应该由团队自行确定，因为作为一个团队，你们需要一同对代码做出一致的评判。这里我向你推荐“简单”的四个主观特质以供参考：可测试（Testable）、可理解（Understandable）、可预览（Browsable）、可解释（Explainable）（简称[TUBE](http://www.zacharyspencer.com/2010/03/judging-code-simplicity-fit-it-through-the-tube/)）。
 
 > Within your project the team decides what is simple. Together you judge your code subjectively. I recommend four subjective qualities; Testable, Understandable, Browsable, and Explainable (TUBE).
 
@@ -40,6 +40,6 @@
 
 > Simple designs often come after the project has been running for a while. The best approach is to create code only for the features you are implementing while you search for enough knowledge to reveal the simplest design. Then refactor incrementally to implement your new understanding and design.
 
-绝不在真正需要某项功能之前实现它，如此方能维护设计的长期简洁。即便如此也仍然要明白：保持简单的设计需下苦功，决不可能一蹴而就。
+绝不在真正需要某项[功能之前](http://www.extremeprogramming.org/rules/early.html)实现它，如此方能维护设计的长期简洁。即便如此也仍然要明白：保持简单的设计需下苦功，决不可能一蹴而就。
 
 > Keep things as simple as possible as long as possible by never adding functionality before it is scheduled. Beware though, keeping a design simple is hard work.
