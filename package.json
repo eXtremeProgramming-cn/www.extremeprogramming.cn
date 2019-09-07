@@ -7,7 +7,8 @@
     "serve": "gitbook serve --port 4002 --lrport 35730",
     "init": "gitbook init",
     "install": "gitbook install",
-    "pdf": "gitbook pdf && open book.pdf"
+    "pdf": "gitbook pdf && open book.pdf",
+	"release": "ssh xp.cn 'cd www.extremeprogramming.cn && git pull && gitbook build'"
   },
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
