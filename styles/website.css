@@ -4,3 +4,7 @@
 	padding: 15px 15px 5px 15px;
 	border-radius: 5px;
 }
+
+.markdown-section sub {
+	font-size: small;
+}
