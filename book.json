@@ -1,12 +1,36 @@
 {
 	"title": "极限编程",
 	"language": "zh-hans",
-	"plugins" : [ "-highlight", "code-highlighter", "favicon"],
+	"plugins" : [ "-highlight", "code-highlighter", "favicon", "-sharing", "sharing-plus"],
 	"pluginsConfig": {
 	        "favicon": {
 	            "shortcut": "images/favicon.ico",
 	            "bookmark": "images/favicon.ico",
 	            "appleTouch": "images/apple-touch-icon.png"
-	        }
+	        },
+			"sharing": {
+			            "douban": true,
+			            "facebook": false,
+			            "google": false,
+			            "hatenaBookmark": false,
+			            "instapaper": false,
+			            "line": false,
+			            "linkedin": true,
+			            "messenger": false,
+			            "pocket": false,
+			            "qq": false,
+			            "qzone": false,
+			            "stumbleupon": false,
+			            "twitter": false,
+			            "viber": false,
+			            "vk": false,
+			            "weibo": true,
+			            "whatsapp": false,
+			            "all": [
+			                "facebook", "google", "twitter",
+			                "weibo", "instapaper", "linkedin",
+			                "pocket", "stumbleupon"
+			            ]
+			 }
 	    }
 }
