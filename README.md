@@ -28,6 +28,5 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 <span style="font-size:smaller">
-成都伊斯群慕信息技术有限公司<br/>
-会同 中国极限编程实践者社群<br/>
+[中国极限编程实践者社群](content/about-us.md)<br/>
 采用 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a><br/> 免费发布</span>

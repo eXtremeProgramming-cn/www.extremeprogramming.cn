@@ -1,6 +1,6 @@
 # 目录
 
-* [关于](README.md)
+* [开篇](README.md)
 * [极限编程简介](content/xp/introduction.md)
 	* [规则](content/xp/rules.md)
 	* [价值观](content/xp/value.md)
@@ -25,3 +25,4 @@
 	* [简单设计](content/xp/simple-design.md)
 	* [CRC卡](content/xp/crc-card.md)
 * [如何实施极限编程](content/implement-xp.md)
+* [关于我们](content/about-us.md)
