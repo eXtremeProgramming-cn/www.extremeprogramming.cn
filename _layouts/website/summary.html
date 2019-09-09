@@ -1,3 +1,5 @@
+<img src='/images/extreme_programming_white.png' width='180px'/>
+
 {% macro articles(_articles) %}
     {% for article in _articles %}
         <li class="chapter {% if article.path == file.path and not article.anchor %}active{% endif %}" data-level="{{ article.level }}" {% if article.path %}data-path="{{ article.path|resolveFile }}"{% endif %}>
