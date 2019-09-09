@@ -1,5 +1,12 @@
 {
 	"title": "极限编程",
 	"language": "zh-hans",
-	"plugins" : [ "-highlight", "code-highlighter"]
+	"plugins" : [ "-highlight", "code-highlighter", "favicon"],
+	"pluginsConfig": {
+	        "favicon": {
+	            "shortcut": "images/favicon.ico",
+	            "bookmark": "images/favicon.ico",
+	            "appleTouch": "images/apple-touch-icon.png"
+	        }
+	    }
 }

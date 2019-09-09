@@ -8,7 +8,7 @@
     "init": "gitbook init",
     "install": "gitbook install",
     "pdf": "gitbook pdf && open book.pdf",
-	"release": "ssh xp.cn 'cd www.extremeprogramming.cn && git pull && gitbook build'"
+	"release": "ssh xp.cn 'cd www.extremeprogramming.cn && git pull && gitbook install && gitbook build'"
   },
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
