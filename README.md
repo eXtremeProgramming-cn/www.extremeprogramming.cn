@@ -1,8 +1,9 @@
 # 极限编程
 
-> 本网站由 **成都伊斯群慕信息技术有限公司** [版权所有](http://creativecommons.org/licenses/by-sa/4.0/)并负责管理。
+> <span style="font-size:smaller">本网站由 **成都伊斯群慕信息技术有限公司** [版权所有](http://creativecommons.org/licenses/by-sa/4.0/)并负责管理。</span>
 
-> **成都伊斯群慕信息技术有限公司** 是一家重视技术卓越的IT专业服务提供商，专注为IT组织提供基于极限编程的培训、咨询、软件开发等服务。
+> <span style="font-size:smaller">**成都伊斯群慕信息技术有限公司** 是一家重视技术卓越的IT专业服务提供商，专注为IT组织提供基于极限编程的培训、咨询、软件开发等服务。
+</span>
 
 极限编程（eXtreme Programming，简称“XP”）是Kent Beck在1990年代提出的软件开发方法。2001年，极限编程的领导者们与其他践行轻量级软件开发方法的先行者一起，签署了《敏捷软件开发宣言》，自此诞生了“敏捷”（Agile）这一概念。
 
