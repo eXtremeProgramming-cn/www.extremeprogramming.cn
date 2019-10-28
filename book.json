@@ -1,7 +1,7 @@
 {
 	"title": "极限编程",
 	"language": "zh-hans",
-	"plugins" : [ "-highlight", "code-highlighter", "favicon", "-sharing", "sharing-plus"],
+	"plugins" : [ "link-checker", "-highlight", "code-highlighter", "favicon", "-sharing", "sharing-plus"],
 	"pluginsConfig": {
 	        "favicon": {
 	            "shortcut": "images/favicon.ico",
@@ -31,6 +31,9 @@
 			                "weibo", "instapaper", "linkedin",
 			                "pocket", "stumbleupon"
 			            ]
-			 }
+			 },
+			 "link-checker": {
+				 "dieOnError": true
+			}
 	    }
 }

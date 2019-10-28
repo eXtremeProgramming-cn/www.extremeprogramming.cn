@@ -1,10 +1,10 @@
 # 用户故事
 
-我们以用户故事的形式描述需求，而不使用庞大的需求文档。用户故事可以在[发布计划会议](release-plan.md)上用做时间估算的单元。用户故事应该站在客户的角度编写，描述他们希望系统提供的服务。不过，用户故事不局限于描述用户界面。用户故事应该使用三段式编写，应该使用业务的语言编写，而不应带有太多技术术语。
+我们以用户故事的形式描述需求，而不使用庞大的需求文档。用户故事可以在[发布计划会议](release-planning.md)上用做时间估算的单元。用户故事应该站在客户的角度编写，描述他们希望系统提供的服务。不过，用户故事不局限于描述用户界面。用户故事应该使用三段式编写，应该使用业务的语言编写，而不应带有太多技术术语。
 
 <!-- User stories serve the same purpose as use cases but are not the same. They are used to create time estimates for the release planning meeting. They are also used instead of a large requirements document. User Stories are written by the customers as things that the system needs to do for them. They are similar to usage scenarios, except that they are not limited to describing a user interface. They are in the format of about three sentences of text written by the customer in the customers terminology without techno-syntax. -->
 
-同时，由用户故事还能驱动出相应的[验收测试](functionaltests.md)。一个用户故事是否完成，必须由一个或多个自动化的验收测试来验证。
+同时，由用户故事还能驱动出相应的[验收测试](acceptance-test.md)。一个用户故事是否完成，必须由一个或多个自动化的验收测试来验证。
 
 <!-- User stories also drive the creation of the acceptance tests. One or more automated acceptance tests must be created to verify the user story has been correctly implemented. -->
 
