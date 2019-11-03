@@ -1,0 +1,6 @@
+<!-- TODO: translate this -->
+Choose a System Metaphor
+
+A System Metaphor was easy to choose at the first two Extreme Programming (XP) projects (C3 and VCAPS). C3 was built as a production line. VCAPS was structured like a bill of materials. Those two projects were rare because they had already been running for a year or more when they transitioned to XP. It takes deep knowledge about the system to choose a good metaphor and those teams had it.
+Now System Metaphor is itself a metaphor for a simple design with certain qualities. The most important quality is being able to explain the system design to new people without resorting to dumping huge documents on them. A design should have a structure that helps new people begin contributing quickly. The second quality is a design that makes naming classes and methods consistent.
+What you name your objects is very important for understanding the overall design of the system and code reuse as well. Being able to guess at what something might be named if it already existed and being right much of the time is a real time saver. Choose a system of names for your objects that everyone can relate to without specific, hard to earn knowledge about the system. 
