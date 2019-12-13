@@ -33,6 +33,10 @@
 
 * **极客学院**：IT职业在线教育平台，致力于“让IT学习更有效”，以实战为特色，为注重自我提升的IT从业者提供高品质职业教育。
 
+* **ThoughtWorks**：全球领先的软件及咨询公司，最著名、最坚定的敏捷倡导者。
+
+* **优普丰敏捷学院**：中国地区首家国际Scrum Alliance联盟REP（注册合作伙伴）及Agile Alliance联盟企业会员。
+
 #### 贡献者
 
 查看[对本网站建设作出贡献的社群成员](https://github.com/eXtremeProgramming-cn/www.extremeprogramming.cn/graphs/contributors)

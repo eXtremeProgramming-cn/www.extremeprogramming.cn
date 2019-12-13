@@ -25,4 +25,5 @@
 	* [简单设计](content/xp/simple-design.md)
 	* [CRC卡](content/xp/crc-card.md)
 * [如何实施极限编程](content/implement-xp.md)
+* [极客练功房](content/dojo/index.md)
 * [关于我们](content/about-us.md)
