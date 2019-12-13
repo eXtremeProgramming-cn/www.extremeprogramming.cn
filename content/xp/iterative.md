@@ -1,5 +1,4 @@
 <!-- Iterative Development -->
-
 # 迭代式开发
 
 <!-- Iterative Development adds agility to the development process. Divide your development schedule into about a dozen iterations of 1 to 3 weeks in length. One week is the best choice even though it seems very short. Keep the iteration length constant through out the project. This is the heart beat of your project. It is this constant that makes measuring progress and planning simple and reliable in XP. -->
@@ -12,7 +11,7 @@
 
 <!-- It is also against the rules to look ahead and try to implement anything that it is not scheduled for this iteration. There will be plenty of time to implement that functionality when it becomes the most important story in the release plan. -->
 
-[试图提前实现](early.md)当前迭代以外的任何内容都违反了XP的规则，正确的做法是等到这些内容上升为发布计划中最重要的故事时，才投入时间来实现它们。
+[试图提前实现](never-add-early.md)当前迭代以外的任何内容都违反了XP的规则，正确的做法是等到这些内容上升为发布计划中最重要的故事时，才投入时间来实现它们。
 
 
 <!-- Take your iteration deadlines seriously! Track your progress during an iteration. If it looks like you will not finish all of your tasks then call another iteration planning meeting, re-estimate,  and  remove  some   of  the   tasks. -->
