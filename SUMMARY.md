@@ -31,8 +31,7 @@
 - [如何实施极限编程](content/implement-xp.md)
   <<<<<<< HEAD
 - [极客练功房](content/dojo/index.md)
-  - [北京-20191221](content/dojo/beijing-20191221.md)
-- # [关于我们](content/about-us.md)
+  - [极客练功房-北京](content/dojo/beijing-20191221.md)
 - [关于我们](content/about-us.md)
 
 > > > > > > > 9b7cb39c72360534e8102fccdedda8d322c5a41c
