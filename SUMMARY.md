@@ -30,6 +30,7 @@
   - [客户紧密参与](content/xp/customers-in-team.md)
 - [如何实施极限编程](content/implement-xp.md)
 - [极客练功房](dojo/index.md)
+  - [如何举办指南](dojo/how-to-guide.md)
   - [北京（2019.12.21）](dojo/beijing-20191221.md)
   - [深圳（2019.12.28）](dojo/shenzhen-20191228.md)
 - [关于我们](content/about-us.md)
