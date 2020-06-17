@@ -33,8 +33,9 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 <span style="font-size:smaller">
-本网站内容由 [中国极限编程实践者社群](content/about-us.md)<br/>
+本网站内容由 [极限编程合作社](content/about-us.md)<br/>
 采用 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a> 免费发布
 <br/>
+成都伊斯群慕信息技术有限公司 版权所有<br/>
 网站备案号 <a href='http://beian.miit.gov.cn' target='_blank'>蜀ICP备19031719号</a>
 </span>
