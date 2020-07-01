@@ -1,6 +1,6 @@
 {% extends "./layout.html" %}
 
-{% block title %}伊斯群慕{% endblock %}
+{% block title %}{{ page.title }} · {{ super() }}{% endblock %}
 
 {% block description %}{{ page.description }}{% endblock %}
 
