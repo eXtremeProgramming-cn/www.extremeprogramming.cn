@@ -25,6 +25,6 @@
     "gitbook-plugin-image-div": "0.0.4",
     "gitbook-plugin-sharing-plus": "0.0.2",
     "gitbook-plugin-link-checker": "1.1.4",
-    "lodash": ">=4.17.19"
+    "lodash": ">=4.17.21"
   }
 }
